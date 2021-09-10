@@ -16,8 +16,4 @@ public abstract class Animal implements Asset {
             return animal1.name.toLowerCase().compareTo(animal2.name.toLowerCase());
         }
     };
-
-    {
-
-    }
 }
