@@ -3,7 +3,6 @@ package circus.animal;
 import circus.Asset;
 
 import java.util.Comparator;
-import java.util.Locale;
 
 public abstract class Animal implements Asset {
 
